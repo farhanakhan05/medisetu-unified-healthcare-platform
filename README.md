@@ -3,6 +3,7 @@
 Medisetu is a comprehensive, dual-sided healthcare portal designed to bridge the gap between patients and healthcare professionals. It simplifies medical record management through AI-driven analysis and streamlines clinical workflows with integrated appointment and patient history tracking.
 
 ##Live Demo
+ https://farhanakhan05.github.io/medisetu-unified-healthcare-platform/
 
 
 ## 🚀 Key Features
