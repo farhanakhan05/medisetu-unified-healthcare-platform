@@ -1,0 +1,8 @@
+
+{
+  "name": "Medisetu Unified Healthcare Platform",
+  "description": "A comprehensive healthcare portal integrating patient report management, AI-driven medical analysis, and doctor appointment scheduling with patient record tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
