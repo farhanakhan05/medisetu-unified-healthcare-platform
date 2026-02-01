@@ -1,0 +1,5 @@
+1. No backend integration; data is stored temporarily on the client side.
+2. AI analysis is based on sample/static data, not real-time medical reports.
+3. OCR-based report upload is not implemented yet.
+4. Authentication and role-based access control are pending.
+5. The system is not a medical diagnostic tool and requires doctor validation.
