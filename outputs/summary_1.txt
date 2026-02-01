@@ -1,0 +1,4 @@
+The system processes a sample medical report and extracts key blood parameters.
+Based on standard reference ranges, hemoglobin and platelet levels are identified
+as below normal. The platform provides a simplified summary and recommendation
+to help patients understand their report and seek medical advice if needed.
